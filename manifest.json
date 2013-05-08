@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "TabFinder",
+  "description": "This extension demonstrates a 'browser action' with kittens.",
+  "version": "1.0",
+
+  "browser_action": {
+    
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "tabs"
+  ]
+}

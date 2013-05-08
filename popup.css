@@ -1,0 +1,14 @@
+body {
+	width: 250px;
+	height: 500px;
+}
+
+#query {
+	position: relative;
+	left: -5px;
+}
+
+#add {
+	text-align: center;
+	color: blue;
+}
